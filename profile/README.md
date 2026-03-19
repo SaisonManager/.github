@@ -1,5 +1,7 @@
 # SaisonManager 🏒
-Inofizielle Dokumentation für den Floorball-Deutschland SaisonManager [saisonmanager.de](https://saisonmanager.de)
+Inoffizielle Dokumentation für den Floorball-Deutschland SaisonManager [saisonmanager.de](https://saisonmanager.de)
+
+Da der Saisonmanager derzeit keinerlei Dokumentation zu seiner Api hat, ist hier eine (hoffentlich) aktuelle Beschreibung der Schnittstelle.
 
 ## Was ist hier zu finden?
 - [❌TODO] [OpenApi Dokumentation](https://github.com/SaisonManager/OpenApi) beschreibt die aktuelle Schnittstelle von [saisonmanager.de/api/v2](https://saisonmanager.de/api/v2)
@@ -8,5 +10,7 @@ Inofizielle Dokumentation für den Floorball-Deutschland SaisonManager [saisonma
 
 ## Was ist weiterhin geplant?
 - [❌TODO] Daten-Archiv für vergangene Saisons (statische Daten von Saison X 2014 bis Saison Y 2024/2025)
+
+## Hinweise
 
 
